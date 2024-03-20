@@ -1,2 +1,2 @@
 # QuantumPulse
-Thi is an Agent maded with crewAI.
+This is an Agent maded with crewAI.
